@@ -107,9 +107,7 @@ By: Nithida Phookriangkrai (student id: 6420422004)
 <img width="291" alt="Screen Shot 2565-10-14 at 22 49 01" src="https://user-images.githubusercontent.com/56344603/195888252-ddfd84f8-ad12-46b1-9fee-1236562577de.png">
 
 <img width="474" alt="Screen Shot 2565-10-14 at 22 49 18" src="https://user-images.githubusercontent.com/56344603/195888302-91ad427c-9618-4671-8c71-41c8381151af.png">
-
 ![image](https://user-images.githubusercontent.com/56344603/195888339-636af9cf-de6e-492f-8126-3c6a795a5b0a.png)
-
 จะเห็นว่าจำนวนเด็กเกิดใหม่จะลดลงหลังจากมีเหตุการณ์สำคัญในประเทศไทย เช่น วิกฤตอุทกภัย 2538 หรือวิกฤตเศรษฐกิจต้มยำกุ้ง
 
 2. จำนวนเด็กเกิดใหม่ในแต่ละภาค ช่วงเวลาตั้งแต่ปี พ.ศ. 2536 - 2564
@@ -117,7 +115,7 @@ By: Nithida Phookriangkrai (student id: 6420422004)
 <img width="776" alt="Screen Shot 2565-10-14 at 22 51 47" src="https://user-images.githubusercontent.com/56344603/195888786-eb11a0e0-5665-401c-8e5b-eef973c6e0c5.png">
 
 <img width="401" alt="Screen Shot 2565-10-14 at 22 51 58" src="https://user-images.githubusercontent.com/56344603/195888822-7f779bc2-d944-4f54-9551-5259d1a7de85.png">
-
+![image](https://user-images.githubusercontent.com/56344603/195893047-cae153ed-0dd7-4c7e-93bf-f51118521f85.png)
 จะเห็นว่าภาคตะวันออกเฉียงเหนือมีจำนวนเด็กเกิดใหม่สูงสุดเทียบกับภาคอื่นๆ และมีแนวโน้มที่ลดลงอย่างชัดเจน
 
 3. จังหวัดที่มี %การเกิดใหม่ลดลงมากที่สุด 5 อันดับแรกและน้อยที่สุด 5 อันดับสุดท้ายคือจังหวัดอะไร
