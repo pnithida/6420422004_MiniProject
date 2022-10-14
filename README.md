@@ -148,24 +148,50 @@ Plot bar สำหรับจังหวัดที่มี %การเก
 
 Plot bar สำหรับจังหวัดที่มี %การเกิดใหม่ลดลงน้อยที่สุด 5 อันดับ
 
+<img width="635" alt="Screen Shot 2565-10-14 at 23 01 47" src="https://user-images.githubusercontent.com/56344603/195890973-10507af5-207c-438b-8eae-150a56bb3cda.png">
 
+![image](https://user-images.githubusercontent.com/56344603/195891015-72937fdd-391e-4504-b0e4-be435b5d19f8.png)
 
-3. อัตราเด็กไทยเกิดใหม่ลดลง มีผลมาจากค่าใช้จ่ายที่สูงขึ้นหรือไม่ 
+4. อัตราเด็กไทยเกิดใหม่ลดลง มีผลมาจากค่าใช้จ่ายที่สูงขึ้นหรือไม่ 
 
-    คำตอบ: คาดว่าเป็นไปได้ แต่น่าจะมีปัจจัยอื่นๆร่วมด้วย เช่น วิกฤตอุทกภัยหรือเศรษฐกิจต่างๆ
+<img width="363" alt="Screen Shot 2565-10-14 at 23 03 34" src="https://user-images.githubusercontent.com/56344603/195891194-5bbb1dad-173e-474c-8648-6f20204fecfc.png">
 
-4. จังหวัดที่ค่าครองชีพสูงจะมีอัตราการเกิดต่ำกว่าจังหวัดที่มีค่าครองชีพต่ำ
+<img width="1257" alt="Screen Shot 2565-10-14 at 23 04 06" src="https://user-images.githubusercontent.com/56344603/195891277-3f9dd794-7691-4a9f-acf2-0a98d13d925f.png">
 
-    คำตอบ: ไม่พบความสัมพันธ์ระหว่างค่าครองชีพกับ %เด็กเกิดใหม่
+![image](https://user-images.githubusercontent.com/56344603/195891292-5e35e65f-ece5-457b-b572-99e401995973.png)
 
-5. รายได้และรายจ่ายของคนในแต่ละจังหวัดส่งผลต่ออัตราการเกิด
+5. จังหวัดที่ค่าครองชีพสูงจะมีอัตราการเกิดต่ำกว่าจังหวัดที่มีค่าครองชีพต่ำ
 
-    คำตอบ: คาดว่ามีความเกี่ยวข้อง เนื่องจากพบว่าภาคอีสานที่มันอัตราการเกิดลดลงมากที่สุด มีค่าเฉลี่ยรายได้และรายจ่ายใกล้เคียงกัน
+<img width="323" alt="Screen Shot 2565-10-14 at 23 09 19" src="https://user-images.githubusercontent.com/56344603/195892239-244bb513-c08d-4ac5-99d8-47ea5e840240.png">
 
-6. GPP (มูลค่าการผลิตสินค้าและบริการขั้นสุดท้ายของจังหวัด) มีผลต่ออัตราการเกิดหรือไม่ 
+<img width="723" alt="Screen Shot 2565-10-14 at 23 09 48" src="https://user-images.githubusercontent.com/56344603/195892298-9ed8177b-6839-400a-8a19-b59961540ae6.png">
 
-    คำตอบ: ไม่พบความสัมพันธ์ระหว่าง GPP และอัตราการเกิด
+<img width="849" alt="Screen Shot 2565-10-14 at 23 09 59" src="https://user-images.githubusercontent.com/56344603/195892339-bfccf14b-7b35-44e3-8b5f-a09ae98a9d5f.png">
 
+<img width="756" alt="Screen Shot 2565-10-14 at 23 10 41" src="https://user-images.githubusercontent.com/56344603/195892443-2937eefa-450e-42e4-a113-6e17660aa2b5.png">
 
+สำหรับทั้ง 5 จังหวัดแรกที่มีค่า CPI สูงและ 5 จังหวัดสุดท้ายที่มีค่า CPI น้อยกว่า แสดงให้เห็นถึงว่ามี %การเกิดของเด็กกระจาย ซึ่งไม่สัมพันธ์กันกับ CPI
 
+6. รายได้และรายจ่ายของคนในแต่ละจังหวัดส่งผลต่ออัตราการเกิด
 
+![image](https://user-images.githubusercontent.com/56344603/195891383-8fb05b7b-d3e3-4df2-ae24-664530ecd0c9.png)<img width="858" alt="Screen Shot 2565-10-14 at 23 05 07" src="https://user-images.githubusercontent.com/56344603/195891548-7a446302-857c-4094-af96-2b0b1d8f47bc.png">
+
+<img width="1044" alt="Screen Shot 2565-10-14 at 23 07 09" src="https://user-images.githubusercontent.com/56344603/195891842-d905b039-7a7f-4105-83e4-cff06ba62bb9.png">
+
+<img width="921" alt="Screen Shot 2565-10-14 at 23 07 37" src="https://user-images.githubusercontent.com/56344603/195891903-d5140f71-4b76-44f3-99f9-f0891d81d800.png">
+
+<img width="839" alt="Screen Shot 2565-10-14 at 23 07 49" src="https://user-images.githubusercontent.com/56344603/195891938-47ac596b-43ac-4886-9797-83e0b2be443a.png">
+
+<img width="724" alt="Screen Shot 2565-10-14 at 23 08 02" src="https://user-images.githubusercontent.com/56344603/195891980-d72e22df-f382-4d56-b483-ae902cf7944c.png">
+
+<img width="649" alt="Screen Shot 2565-10-14 at 23 08 13" src="https://user-images.githubusercontent.com/56344603/195892007-f604357b-700c-4bfd-8521-88d7c4d2fc33.png">
+
+![image](https://user-images.githubusercontent.com/56344603/195892032-3d38c461-f8ea-4bbf-855f-dc3801fec6ae.png)
+
+พบว่าภาคตะวันออกเฉียงเหนือมีรายได้และรายจ่ายที่ใกล้เคียงกันมาก
+
+7. GPP (มูลค่าการผลิตสินค้าและบริการขั้นสุดท้ายของจังหวัด) มีผลต่ออัตราการเกิดหรือไม่ 
+
+<img width="1018" alt="Screen Shot 2565-10-14 at 23 04 30" src="https://user-images.githubusercontent.com/56344603/195891359-8b8497c6-1da9-4917-b677-5325117534b9.png">
+
+![image](https://user-images.githubusercontent.com/56344603/195891755-146768e3-682a-40f5-8541-c8b2de65b316.png)
