@@ -59,3 +59,8 @@ By: Nithida Phookriangkrai (student id: 6420422004)
 
 
 3. เนื่องจากข้อมูลเป็นภาษาไทย ทำให้ตอนแรกที่ plot graph ไม่สามารถอ่านตัวอักษรภาษาไทยได้ จึงต้องไป import font ภาษาไทย
+
+## Step
+
+1. 
+
