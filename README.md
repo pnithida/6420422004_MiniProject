@@ -130,6 +130,8 @@ By: Nithida Phookriangkrai (student id: 6420422004)
 
 <img width="1181" alt="Screen Shot 2565-10-14 at 22 54 59" src="https://user-images.githubusercontent.com/56344603/195889431-5dcd40ed-80be-46f4-9f1e-4cefd3363004.png">
 
+เนื่องจากเป็นการเทียบทุกจังหวัด จึงเลือกพิจารณาปี 2554 - 2564 เนื่องจากประเทศไทยเพิ่ม 'บึงกาฬ' เป็นจังหวัดที่ 77 เมื่อปี 2554
+
 <img width="820" alt="Screen Shot 2565-10-14 at 22 55 10" src="https://user-images.githubusercontent.com/56344603/195889486-a52e9583-ad4c-4f89-bc97-828c4fe3f7c7.png">
 
 <img width="579" alt="Screen Shot 2565-10-14 at 22 55 22" src="https://user-images.githubusercontent.com/56344603/195889524-7589c8c3-dcba-4e65-bae8-c8f44fa9c4b8.png">
